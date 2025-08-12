@@ -8,7 +8,7 @@ public class Newpattern15 {
 
 	/**
 	 * @param args
-	 * @description this contains source code for the pattern J
+	 * @description this contains source code for the pattern K
 	 */
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);

@@ -3,7 +3,7 @@ package com.gqt.corejava.patterns;
 import java.util.Scanner;
 
 public class Newpattern29 {
-//	@description this contains source code for the pattern Y
+//	@description this contains source code for the pattern X
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
 		System.out.println("enter the size");
